@@ -29,8 +29,10 @@ MoonGuard tracks player activities, such as unusual resource usage, teleporting,
 ### 💾 **Customizable Configurations**
 Fine-tune the anti-cheat settings to suit your server's needs. MoonGuard is fully customizable with various configuration options available through our web panel.
 
-### 🖼️ **Dynamic Panel UI Design**
+### 🖼️ **Ban Panel UI Design**
 Experience a modern UI with dark mode options, ensuring that managing your anti-cheat has never been this smooth and visually pleasing.
+
+![Ban Panel](https://media.discordapp.net/attachments/1296434175691329536/1301891997635706910/image.png?ex=67334fe8&is=6731fe68&hm=51d7b81a2f1290c6178a6b03c9d605e4d29fcd24539aa12e837b85e73eec34b3&=&format=webp&quality=lossless&width=1158&height=1032)
 
 ### 📦 **Discord Integration**
 Receive real-time alerts and reports on your Discord server. Stay informed and take immediate action when violations occur.
